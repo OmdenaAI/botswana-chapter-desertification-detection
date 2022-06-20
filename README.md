@@ -2,7 +2,7 @@
 Use this Repository as a template for creating Local Chapter Repositories
 
 
-# [Chapter Challenge Name]
+# Desertification Detection with Deep Learning and Satellite Data
 
 
 ## Contribution Guidelines
